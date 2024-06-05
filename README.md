@@ -5,7 +5,6 @@ Certifique-se de que você possui as seguintes dependências instaladas:
 
 - [Composer](https://getcomposer.org/)
 - [PHP 8.1](https://www.php.net/)
-- [MySQL 8](https://www.mysql.com/)
 
 ## Instalação
 
