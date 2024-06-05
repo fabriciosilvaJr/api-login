@@ -14,16 +14,13 @@ Certifique-se de que você possui as seguintes dependências instaladas:
    git clone https://github.com/fabriciosilvaJr/api-login.git
    
 2. Navegue até o diretório do projeto:
-    `cd app-tarefas`
+    `cd app-login`
 
-3. Renomeie o arquivo .env.example para .env:
-   `mv .env.example .env`
-
-4. Instale as dependências do Composer:
+3. Instale as dependências do Composer:
    `composer install`
+   
 ## Executando
 
-Agora que a api está configurada, você pode executá-la com o seguinte comando:
 `php artisan serve`
 
 #### Utilizando a api
