@@ -33,7 +33,7 @@ Certifique-se de que você possui as seguintes dependências instaladas:
 
 A API estará disponível em [http://localhost:8000/api](http://localhost:8000/api)
 
-#### Para fazer testar e fazer login, utilize a seguinte URL:
+#### Para testar e fazer login, utilize a seguinte URL:
 
 - **URL:** `http://localhost:8000/api/login`
 - **Método:** `POST`
