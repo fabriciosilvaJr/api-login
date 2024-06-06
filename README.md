@@ -16,11 +16,14 @@ Certifique-se de que você possui as seguintes dependências instaladas:
 2. Navegue até o diretório do projeto:
     `cd app-login`
    
-3. Renomeie o arquivo .env.example para .env: mv .env.example .env
+3. Renomeie o arquivo .env.example para .env:
+   `mv .env.example .env`
 
-
-4. Instale as dependências do Composer:
+5. Instale as dependências do Composer:
    `composer install`
+   
+5.Gere a chave da aplicação
+   `php artisan key:generate`
    
 ## Executando
 
