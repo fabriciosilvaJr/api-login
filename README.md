@@ -14,7 +14,7 @@ Certifique-se de que você possui as seguintes dependências instaladas:
    git clone https://github.com/fabriciosilvaJr/api-login.git
    
 2. Navegue até o diretório do projeto:
-    `cd app-login`
+    `cd api-login`
    
 3. Renomeie o arquivo .env.example para .env:
    `mv .env.example .env`
