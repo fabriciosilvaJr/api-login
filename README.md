@@ -15,8 +15,11 @@ Certifique-se de que você possui as seguintes dependências instaladas:
    
 2. Navegue até o diretório do projeto:
     `cd app-login`
+   
+3. Renomeie o arquivo .env.example para .env: mv .env.example .env
 
-3. Instale as dependências do Composer:
+
+4. Instale as dependências do Composer:
    `composer install`
    
 ## Executando
