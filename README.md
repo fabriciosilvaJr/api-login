@@ -22,7 +22,7 @@ Certifique-se de que você possui as seguintes dependências instaladas:
 5. Instale as dependências do Composer:
    `composer install`
    
-5.Gere a chave da aplicação
+6. Gere a chave da aplicação
    `php artisan key:generate`
    
 ## Executando
